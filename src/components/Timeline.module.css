@@ -1,0 +1,43 @@
+.timeline {
+    padding: 23px;
+    border: 2px solid #37464f;
+    border-radius: 12px;
+    background-color: #465a64
+}
+
+.scale {
+    position: relative;
+    height: 23px;
+    width: 100%;
+    border-radius: 6px;
+    background-color: #37464f
+}
+
+.event {
+    position: absolute;
+    height: 100%;
+    background-color: yellow;
+}
+
+.event:last-child{
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+.event:first-child{
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+.normal {
+    background-color: green;
+}
+
+.dangerous {
+    background-color: yellow;
+}
+
+.critical {
+    background-color: red;
+}
+
