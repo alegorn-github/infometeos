@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/infometeos/static/css/main.5846346c.css",
+    "main.js": "/infometeos/static/js/main.e6c3303a.js",
+    "static/js/787.7835a5a1.chunk.js": "/infometeos/static/js/787.7835a5a1.chunk.js",
+    "index.html": "/infometeos/index.html",
+    "main.5846346c.css.map": "/infometeos/static/css/main.5846346c.css.map",
+    "main.e6c3303a.js.map": "/infometeos/static/js/main.e6c3303a.js.map",
+    "787.7835a5a1.chunk.js.map": "/infometeos/static/js/787.7835a5a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5846346c.css",
+    "static/js/main.e6c3303a.js"
+  ]
+}
